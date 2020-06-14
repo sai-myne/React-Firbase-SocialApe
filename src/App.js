@@ -20,7 +20,7 @@ import user from './pages/user';
 import axios from 'axios';
 
 axios.defaults.baseURL = 
-  "https://asia-east2-socialape-1c2a8.cloudfunctions.net/api"
+  ""
 
 const theme = createMuiTheme(themeFile);
 
