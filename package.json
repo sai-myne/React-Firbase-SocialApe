@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://asia-east2-socialape-1c2a8.cloudfunctions.net/api"
+  "proxy": ""
 }
